@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/tibo/Documents/workspace/protoreact/node_modules/react-native-navigation/ios/RCCViewController.m \
+  /Users/tibo/Documents/workspace/protoreact/node_modules/react-native-navigation/ios/RCCViewController.h \
+  /Users/tibo/Documents/workspace/protoreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/tibo/Documents/workspace/protoreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/tibo/Documents/workspace/protoreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/tibo/Documents/workspace/protoreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/tibo/Documents/workspace/protoreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/tibo/Documents/workspace/protoreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/tibo/Documents/workspace/protoreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/tibo/Documents/workspace/protoreact/node_modules/react-native-navigation/ios/RCCNavigationController.h \
+  /Users/tibo/Documents/workspace/protoreact/node_modules/react-native-navigation/ios/RCCTabBarController.h \
+  /Users/tibo/Documents/workspace/protoreact/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerController.h \
+  /Users/tibo/Documents/workspace/protoreact/node_modules/react-native-navigation/ios/RCCDrawerController/MMDrawerController/MMDrawerController.h \
+  /Users/tibo/Documents/workspace/protoreact/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerProtocol.h \
+  /Users/tibo/Documents/workspace/protoreact/node_modules/react-native-navigation/ios/RCCDrawerController/RCCTheSideBarManagerViewController.h \
+  /Users/tibo/Documents/workspace/protoreact/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/TheSidebarController.h \
+  /Users/tibo/Documents/workspace/protoreact/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/Animations/SidebarAnimation.h \
+  /Users/tibo/Documents/workspace/protoreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/tibo/Documents/workspace/protoreact/node_modules/react-native-navigation/ios/RCCManager.h \
+  /Users/tibo/Documents/workspace/protoreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/tibo/Documents/workspace/protoreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/tibo/Documents/workspace/protoreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/tibo/Documents/workspace/protoreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/tibo/Documents/workspace/protoreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/tibo/Documents/workspace/protoreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/tibo/Documents/workspace/protoreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/tibo/Documents/workspace/protoreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/tibo/Documents/workspace/protoreact/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/tibo/Documents/workspace/protoreact/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/tibo/Documents/workspace/protoreact/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/tibo/Documents/workspace/protoreact/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/tibo/Documents/workspace/protoreact/node_modules/react-native-navigation/ios/RCCExternalViewControllerProtocol.h \
+  /Users/tibo/Documents/workspace/protoreact/node_modules/react-native-navigation/ios/Helpers/RCTHelpers.h \
+  /Users/tibo/Documents/workspace/protoreact/node_modules/react-native-navigation/ios/Helpers/RCCTitleViewHelper.h \
+  /Users/tibo/Documents/workspace/protoreact/node_modules/react-native-navigation/ios/RCCCustomTitleView.h
